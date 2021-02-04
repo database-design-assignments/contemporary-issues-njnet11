@@ -1,8 +1,6 @@
 ```markdown
 # Contemporary Issues In Data on contact tracing database application during COVID
-
 In this document, I will be discussing about two articles on contact tracing database application during COVID. I will be talking about two different perspective and their thoughts on this newly launched tracking COVID application.
-```
 
 ```
 ## Developing a coronavirus contact tracing app
