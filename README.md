@@ -1,8 +1,10 @@
 ```markdown
 # Contemporary Issues In Data on contact tracing database application during COVID
 In this document, I will be discussing about two articles on contact tracing database application during COVID. I will be talking about two different perspective and their thoughts on this newly launched tracking COVID application.
-
 ```
+
+
+```markdown
 ## Developing a coronavirus contact tracing app
 In Quartz's `[The Global tide has turned against centralized contact tracing apps ](https://qz.com/1870907/privacy-issues-push-countries-to-decentralize-contact-tracing-data/), In Quartz, the article talked about the old strategy on tracing COVID which was to collect data on the peoples’ health status and contract history into a central database. Now, this old system is done because United Kingdom developed a coronavirus (COVID) contact tracing application which was developed by Apple and Google. The main idea was to join the application programming interface and use Bluetooth and use an internally log contract. The positive side of this is that no central authority was needed which means that the government does not have to monitor every people. The benefit of this application was that it can track the spread of the virus by GPS location history and history of contact within people. Due to his benefit, the government can also make a better public health decision. 
 
